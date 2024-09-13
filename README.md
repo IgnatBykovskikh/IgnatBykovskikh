@@ -1,3 +1,4 @@
+ <img src="https://steamuserimages-a.akamaihd.net/ugc/958603887331757558/D1E9FAB08630AFD6CB06EE7B719338B00BCEACBC/?imw=512&imh=219&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 <h1 align="center">Привет 👋, меня зовут Игнат</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignatbykovskikh&label=Profile%20views&color=0e75b6&style=flat" alt="ignatbykovskikh" /> </p>
 
